@@ -1,12 +1,12 @@
 body{
-	background: #99ccff;
+	background: #FFFFFF;
 }
 .cabecalho {
-	background: #cccccc;
+	background: #FFFFFF;
 	width: 100%;
 }
 
 h1 {
-	color: yellow;
+	color: #000000;
 	font-size: 30px;
 }
